@@ -1,2 +1,3 @@
-# TUIT
- The TUIT.app tracks steps towards a goal at the push of a button. You are rewarded with TUIT points, encouraging text messages, and L.E.D. lights. Reaching your daily goal has never been this much fun. Add family and friends, so they can know when you reach your daily goal.
+# TUIT101
+These instructions have been created to guide you through the process of connecting a cloud-enabled Arduino to the Internet of Things. It utilizes Arduino Create and Twilio to demonstrate the potential of a simple button push.
+Please view the PDF for a step-by-step tutorial.
